@@ -1,0 +1,29 @@
+  body::-webkit-scrollbar {
+    display: none; /* for Chrome, Safari, and Opera */
+  }
+
+/* Register CSS Start */
+.set-height-nav{
+    height: 80px !important;
+}
+.set-width-search-bar{
+    width:422px;
+    height:40px;
+}
+.set-center-search{
+    margin-left: -35%;
+}
+.set-heading{
+    margin-left: 25%;
+}
+.set-hr{
+    width: 75%;
+}
+.set-p{
+    color: grey;
+    margin-top: -10px;
+}
+.container-register{
+    margin-left: 13%;
+}
+/* Register Css End */
